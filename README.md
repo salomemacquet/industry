@@ -12,7 +12,7 @@ Next availability: _february 2023_
 - The Sun Project • code • design by [Atelier Choque Le Goff](https://choquelegoff.com/)
 
 ## Websites archive
-- Top Top céramique • code • design by [Atelier Choque Le Goff](https://choquelegoff.com/)
+- [Top Top céramique](https://toptopceramique.com) • code • design by [Atelier Choque Le Goff](https://choquelegoff.com/)
 - [V2S architectes](https://v2sarchitectes.fr/) • code • design by [Documents](https://documents.design)
 - [La nuit du cirque](https://lanuitducirque.com/) • code and design • visual identity by [Aéro Club](http://a-e-r-o.club)
 - [Salomé Macquet](https://salomemacquet.com) • code and design
